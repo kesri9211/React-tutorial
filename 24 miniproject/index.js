@@ -13,6 +13,7 @@ import sData from "./sData";
 function nCard(val){
     return(
     <Card 
+            key={val.id}
             imgsrc={val.imgsrc} 
             title={val.title} 
             catagory={val.catagory} 
