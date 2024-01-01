@@ -1,0 +1,34 @@
+*{
+  background-color: aliceblue;
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+
+.heading-info{
+  font-size: 400;
+  text-align: center;
+  font-family: castino mt;
+  letter-spacing: 2px;
+  /* color: black; */
+  padding: 30px 0;
+  background-color: rgb(255, 255, 255);
+  text-transform: uppercase;
+}
+h1.slot_inner{
+  font-family: castino mt;
+  font-size: medium;
+}
+.slot_inner{
+  text-align: center;
+  border-radius: 10px;
+  box-sizing: content-box;
+  width: 30%;
+  text-transform: uppercase;
+  text-shadow: 1px;
+  font-weight: 50;
+   margin: 10px;
+    font-size: small;
+     margin-left: auto;
+     margin-right: auto
+}
